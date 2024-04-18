@@ -1,1 +1,2 @@
-[Uploading image.png…]()
+#Simple Web Page 
+Pure HTML And CSS.
