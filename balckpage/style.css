@@ -1,0 +1,168 @@
+body{
+    background-color: black;
+    background-image: url(./img/the-camera-black-background-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* padding-top: 20px; */
+}
+p{
+    color: white;
+    font-size: 50px;
+    padding-top: 15%;
+
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: center; 
+    /* padding-left: 5px; */
+}
+
+.botono{
+    align-items: center;
+    margin-left: 100px;
+}
+   
+.btn1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+    border-color: aliceblue;
+    margin-left: 500px;
+    width: 150px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn2{
+    background-color: rgb(250, 245, 245);
+    margin-left: 700px;
+    color: rgb(15, 15, 15);
+    border-radius: 2px;
+    border-color: rgb(71, 73, 73);
+    margin: 10px;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    
+}
+.btn1:hover{
+    background-color: rgb(243, 243, 241);
+    text-shadow: black;
+
+}
+
+.btn2:hover{
+    background-color: rgb(5, 5, 5);
+    text-shadow: black;
+
+}
+ p1{
+   color: rgb(252, 249, 249);
+   font-family: sans-serif;
+   font-size: 15px;
+}
+p2{
+    color: rgb(3, 3, 3);
+    font-family: sans-serif;
+    font-size: 15px;
+ }
+ /* //nav */
+
+.lo{
+    background-color: rgb(24, 24, 24);
+    padding: 0%;
+    margin: 0%;
+    border-radius: 50px;
+    margin-top: 0px;
+   
+}
+.menu{
+    color: white;
+    position: flex;
+    font-size: 25px;
+    position: flex;
+    padding-left: 5%;
+    display: flex;
+    margin: 0px;
+    
+}
+ .left{
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    padding-left: 90px;
+    text-align: right;   
+} 
+.left1{
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    padding-left: 500px;
+    text-align: right;   
+} 
+ .left2{
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    padding-left: 70px;
+    text-align: right;   
+}
+.left3{
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    padding-left: 60px;
+    text-align: right;   
+} 
+.left4{
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    padding-left: 60px;
+    text-align: right;   
+} 
+.left5{
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    padding-left: 60px;
+    text-align: right;   
+} 
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    margin: 5px;
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    margin: 2%;
+    font-size: 20px;
+    padding-left: 0px;
+   
+    
+}
+.log{
+    color: white;
+    font-size: 25px;
+    padding-left: 50px;
+    padding-top: 2px;
+}
+/* .hore{
+    color: white;
+    padding-left: 40px;
+    font-size: 20px;
+} */
